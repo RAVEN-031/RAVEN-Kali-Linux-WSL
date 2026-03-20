@@ -241,9 +241,9 @@ if [ -x /usr/bin/dircolors ]; then
 fi
 
 # Aliases
-alias ll='ls -l'
-alias la='ls -A'
-alias l='ls -CF'
+alias ll='eza -l --icons=automatic'
+alias la='eza -A --icons=automatic'
+alias l='eza --icons=automatic'
 
 alias ff='fastfetch'
 alias c='clear'

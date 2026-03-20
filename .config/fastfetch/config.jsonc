@@ -126,6 +126,7 @@
       "keyColor": "#007DDC"
     },
     "break",
+    /*
     {
       "type": "sound",
       "key": "╭ ",
@@ -137,6 +138,7 @@
       "key": "╰ ",
       "keyColor": "#DC5F00"
     },
+    */
     {
       "type": "custom",
       "format": "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"

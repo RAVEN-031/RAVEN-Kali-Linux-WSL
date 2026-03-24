@@ -244,10 +244,13 @@ fi
 alias ll='eza -l --icons=automatic'
 alias la='eza -A --icons=automatic'
 alias l='eza --icons=automatic'
+alias lt='eza -T --icons=automatic'
 
 alias ff='fastfetch'
 alias c='clear'
 alias q='exit'
+
+alias markdown-toc='~/tools/markdown-toc.sh'
 
 # enable auto-suggestions based on the history
 if [ -f /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh ]; then

@@ -26,7 +26,7 @@ autoload -Uz compinit && compinit
 zinit cdreplay -q
 
 # activate omp
-eval "$(oh-my-posh init zsh --config ~/.config/ohmyposh/uew.omp.json)"
+eval "$(oh-my-posh init zsh --config ~/.config/ohmyposh/catppuccin_mocha.omp.json)"
 
 # configure key keybindings
 bindkey -e                                        # emacs key bindings
@@ -119,4 +119,3 @@ else
 fi
 unset __conda_setup
 # <<< conda initialize <<<
-

@@ -54,7 +54,7 @@
         },
 		{
 		  "style": "plain",
-		  "template": "\n\ue606 ",
+		  "template": "{{ if .Env.CONDA_DEFAULT_ENV }}\n\ue606 {{ end }}",
 		  "type": "text"
 		},
 		{

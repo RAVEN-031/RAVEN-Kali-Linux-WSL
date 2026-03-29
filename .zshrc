@@ -74,7 +74,7 @@ alias l='eza --color=always --long --git --no-filesize --icons=automatic --no-ti
 alias ll='eza -l --icons=automatic'
 alias la='eza -A --icons=automatic'
 alias lla='eza -lA --icons=always --git'
-
+alias lt='eza -T --icons=automatic'
 
 alias grep='grep --color=auto'
 alias fgrep='fgrep --color=auto'

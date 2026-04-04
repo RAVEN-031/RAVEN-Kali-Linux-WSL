@@ -120,5 +120,15 @@ fi
 unset __conda_setup
 # <<< conda initialize <<<
 
+# faaaah on error setup
+
+autoload -Uz add-zsh-hook
+
+error_sound() {
+    [[ $? -ne 0 ]] && setsid ffplay -nodisp -autoexit -loglevel quiet ~/Audio/faahhhhhh.mp3 >/dev/null 2>&1 < /dev/null
+}
+add-zsh-hook precmd error_sound
+
+# On startup runs
 clear
 ff

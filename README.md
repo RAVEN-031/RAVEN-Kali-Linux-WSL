@@ -21,6 +21,10 @@ Main configurations for my Kali Linux setup on WSL. This is my first ricing proj
 
 To properly use icons, Nerd Font is required for this setup, I use FiraMono Nerd Font for my setup. You can download Nerd Fonts from [here](https://www.nerdfonts.com/font-downloads)
 
+## Error Sound
+
+My `.zshrc` config has also been set up to play an error sound when a process ends with an error status. It utilizes ffplay as the player that runs detached so as to not print any output
+
 ## Gallery
 
 ![Screenshot with fastfetch, btop, and vim](gallery/image.png)

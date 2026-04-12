@@ -86,7 +86,9 @@ alias ff='fastfetch'
 alias c='clear'
 alias q='exit'
 
-# add markdown toc here
+alias wa='whatscli'
+alias rtodo='cat ~/Todo.txt'
+alias wtodo='nano ~/Todo.txt'
 
 alias wcmd='cmd.exe /c'
 alias wcode='cmd.exe /c code'

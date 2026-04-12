@@ -27,7 +27,7 @@ My `.zshrc` config has also been set up to play an error sound when a process en
 
 ## Gallery
 
-![Screenshot with fastfetch, btop, and vim](gallery/image.png)
+![Screenshot with fastfetch, btop, and vim](Gallery/image.png)
 
 
 ## References

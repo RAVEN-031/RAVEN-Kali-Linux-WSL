@@ -29,6 +29,8 @@ My `.zshrc` config has also been set up to play an error sound when a process en
 
 ![Screenshot with fastfetch, btop, and vim](Gallery/image.png)
 
+Wallpaper by: [Shiyori(@HoshirouShiyori)](https://x.com/HoshirouShiyori) from X
+
 
 ## References
 
